@@ -7,4 +7,4 @@ Projetcs:
 Exercises from Data Visualisation with R coming soon !
 
 Posts:
-[Draw It Like Playfair, Minard & Nightingale (30 July 2026)] (posts/2026-07-10-hand-drawn-coffee-viz.md)
+[Draw It Like Playfair, Minard & Nightingale (30 July 2026)](posts/2026-07-10-hand-drawn-coffee-viz.md)
