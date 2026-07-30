@@ -4,10 +4,10 @@ title: Draw It Like Playfair, Minard & Nightingale
 date: 2026-07-30
 ---
 
-Draw It Like Playfair, Minard & Nightinigale: Hand-Drawn Coffee Consumption Chart
-Published: 30 July 2026
+# Draw It Like Playfair, Minard & Nightinigale: Hand-Drawn Coffee Consumption Chart
+### Published: 30 July 2026
 
-About this visualisation
+## About this visualisation
 For this exercise, I chose to replicate a fan chart published by Visual Capitalist. The 
 title is "Who Drinks the Most Coffee?"
 The original visualisation contains daily coffee consumption in cups across 65 countries 
