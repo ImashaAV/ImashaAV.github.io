@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Hi I'm Imasha
 I'm a second year Computer Science student at RMIT University, Melbourne
 
