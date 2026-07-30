@@ -1,3 +1,9 @@
+---
+layout: default
+title: Draw It Like Playfair, Minard & Nightingale
+date: 2026-07-30
+---
+
 Draw It Like Playfair, Minard & Nightinigale: Hand-Drawn Coffee Consumption Chart
 Published: 30 July 2026
 
