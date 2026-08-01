@@ -45,4 +45,4 @@ At first I was intimidated by the idea of hand-drawing a visualisation but doing
 
 ## References
 BBC News. (2018, August 2). *Decade of digital change* [Chart]. BBC.
-https://www.bbc.com/news/technology-45033302
+<https://www.bbc.com/news/technology-45033302>
