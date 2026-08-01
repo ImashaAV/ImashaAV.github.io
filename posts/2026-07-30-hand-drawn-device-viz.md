@@ -16,4 +16,4 @@ I replicated this chart by hand, keeping all ten device categories and both year
 ## Drawing Process
 
 Setting up the axes and gridlines:
-![Axes setup](/images/axes-setup.jpg)
+![Axes setup](/images/axes-setup.jpeg)
