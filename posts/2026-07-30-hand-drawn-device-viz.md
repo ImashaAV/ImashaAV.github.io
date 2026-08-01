@@ -27,8 +27,8 @@ Colouring the bars in the assigned colours:
 Adding labels and final touches:
 ![Labels added](/images/4-labels-added.jpeg)
 
-##Final Visualisation
-![Final hand-drawn chart](/images/final.jpeg)
+## Final Visualisation
+![Final hand-drawn chart](/images/5-final.jpeg)
 
 
 
