@@ -39,3 +39,6 @@ If I had more time, I'd want to try replicating a harder chart type, something w
 
 At first I was intimidated by the idea of hand-drawing a visualisation but doing this by hand gave me a better appreciation for how much work lies behind like scaling, gridlines and measurement. I enjoyed manually drawing this visualisation.
 
+## References
+BBC News. (2018, August 2). *Decade of digital change* [Chart]. BBC.
+https://www.bbc.com/news/technology-45033302
