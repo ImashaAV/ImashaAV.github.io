@@ -30,5 +30,12 @@ Adding labels and final touches:
 ## Final Visualisation
 ![Final hand-drawn chart](/images/5-final.jpeg)
 
+## Reflection
+For me, the most challenging part of this exercise was scaling and measuring the bars accurately. Since I needed to replicate the original, I wanted to get the percentages represented as accurately as possible. I calibrated the vertical axis to ten equal parts for the ten devices and the horizontal axis to five equal parts for the percentages. 
 
+What I'm most proud of is how closely the final product matches the original.The proportional relationships between devices and between years came out like the source data, which was the main thing I was aiming for with a replication like this.
+
+If I had more time, I'd want to try replicating a harder chart type, something with multiple variables or a more complex shape. I initially tried a radial chart but as it was composed of 65 parts, I decided to go with the bar chart for this exercise.
+
+At first I was intimidated by the idea of hand-drawing a visualisation but doing this by hand gave me a better appreciation for how much work lies behind like scaling, gridlines and measurement. I enjoyed manually drawing this visualisation.
 
