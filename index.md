@@ -11,4 +11,5 @@ I'm interested in Artificial Intelligence and Machine Learning.
 Exercises from Data Visualisation with R coming soon !
 
 ## Posts
-- [Draw It Like Playfair, Minard & Nightingale (30 July 2026)](/posts/2026-07-30-hand-drawn-device-viz.html)
+- [Draw It Like Playfair, Minard & Nightingale (30 July 2026)](posts/2026-07-30-hand-drawn-device-viz.md)
+
