@@ -4,6 +4,8 @@ title: Draw It Like Playfair, Minard & Nightingale
 date: 2026-07-30
 ---
 
+<link rel="stylesheet" href="/assets/style.css">
+
 # Draw It Like Playfair, Minard & Nightinigale: Hand-Drawn Device Ownership Chart
 ### Published: 30 July 2026
 
