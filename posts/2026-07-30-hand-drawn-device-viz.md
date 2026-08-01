@@ -30,6 +30,10 @@ Adding labels and final touches:
 ## Final Visualisation
 ![Final hand-drawn chart](/images/5-final.jpeg)
 
+## Original Visualisation
+![Original BBC Chart](/images/original.jpeg)
+*Source: BBC News, "Decade of Digital Change" (2018)*
+
 ## Reflection
 For me, the most challenging part of this exercise was scaling and measuring the bars accurately. Since I needed to replicate the original, I wanted to get the percentages represented as accurately as possible. I calibrated the vertical axis to ten equal parts for the ten devices and the horizontal axis to five equal parts for the percentages. 
 
