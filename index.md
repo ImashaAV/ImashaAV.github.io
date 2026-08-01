@@ -2,10 +2,14 @@
 layout: default
 ---
 
-Hi I'm Imasha
-I'm a second year Computer Science student at RMIT University, Melbourne
+<link rel="stylesheet" href="/assets/style.css">
 
-I'm interested in Artificial Intelligence and Machine Learning.
+<div class="hero-name">Imasha</div>
+<div class="hero-tagline">Second-year CS student exploring AI, ML, and data visualisation.</div>
+
+## About
+I'm a second year Computer Science student at RMIT University, Melbourne with an interest in Artificial Intelligence and Machine Learning.
+
 
 ## Projetcs:
 Exercises from Data Visualisation with R coming soon !
