@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(135deg, #fff5f0 0%, #f0f9ff 100%);
+  color: #2d2d2d;
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  line-height: 1.6;
+}
+
+.hero-name {
+  font-size: 4rem;
+  font-weight: 800;
+  background: linear-gradient(90deg, #ff6b6b, #f06595, #cc5de8, #845ef7);
+  background-size: 300% 300%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  animation: fadeSlideIn 1.2s ease-out, gradientShift 6s ease infinite;
+  margin-bottom: 0;
+}
+
+.hero-tagline {
+  font-size: 1.2rem;
+  color: #495057;
+  margin-top: 8px;
+  animation: fadeSlideIn 1.6s ease-out;
+}
+
+@keyframes fadeSlideIn {
+  from { opacity: 0; transform: translateY(-15px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes gradientShift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+h2 {
+  color: #cc5de8;
+  border-bottom: 3px solid #f06595;
+  display: inline-block;
+  padding-bottom: 4px;
+}
+
+a {
+  color: #f06595;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
