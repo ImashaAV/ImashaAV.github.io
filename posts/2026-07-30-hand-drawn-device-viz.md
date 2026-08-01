@@ -17,3 +17,18 @@ I replicated this chart by hand, keeping all ten device categories and both year
 
 Setting up the axes and gridlines:
 ![Axes setup](/images/1-axes-setup.jpeg)
+
+Drawing the bars for each device category for both years:
+![Bars drawn](/images/2-bars-drawn.jpeg)
+
+Colouring the bars in the assigned colours:
+![Coloured bars](/images/3-coloured.jpeg)
+
+Adding labels and final touches:
+![Labels added](/images/4-labels-added.jpeg)
+
+##Final Visualisation
+![Final hand-drawn chart](/images/final.jpeg)
+
+
+
