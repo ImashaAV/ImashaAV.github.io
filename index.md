@@ -16,5 +16,7 @@ Exercises from Data Visualisation with R coming soon !
 
 ## Posts
 - [Draw It Like Playfair, Minard & Nightingale (30 July 2026)](posts/2026-07-30-hand-drawn-device-viz.md)
-- [Gestalt (2 August 2026](/posts/2026-08-02-gestalt-gapmunder.md)
+- [Gestalt (2 August 2026)](/posts/2026-08-02-gestalt-gapminder.md)
+
+
 
