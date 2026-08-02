@@ -4,7 +4,7 @@ layout: default
 
 <link rel="stylesheet" href="/assets/style.css">
 
-<div class="hero-name">Imasha</div>
+<div class="hero-name">Imasha Vithanage</div>
 <div class="hero-tagline">Second-year CS student exploring AI, ML, and data visualisation.</div>
 
 ## About
