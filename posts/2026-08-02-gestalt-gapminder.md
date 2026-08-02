@@ -20,3 +20,5 @@ way that guides human attention and communicates information effectively, and al
 where design choices can introduce certain inaccuracies. 
 
 ## Original Visualisation
+![Gapminder World Poster 2015](/images/module2_visualisation.jpeg)
+*Source: Gapminder(2016)*
