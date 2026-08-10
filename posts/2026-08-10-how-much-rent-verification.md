@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Verifying Data Integrity: HowMuch.net's U.S. Rent Price Map"
 date: 2026-08-10
 ---
