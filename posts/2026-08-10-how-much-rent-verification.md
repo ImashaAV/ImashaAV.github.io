@@ -44,4 +44,20 @@ In summary, locating the correct source required more than looking up HowMuch.ne
 •	Rank is ordinal because it has a meaningful order (1st biggest increase, 2nd biggest increase etc.). But the gap between rank 1 and rank 2 isn’t necessarily equal to the gap between rank 2 and rank 3.  
 •	% change and rent price ($) are ratio because they both have a meaning zero (0% means no change and $0 means no rent).
 
+## Alignment of data and question
+
+HowMuch.net’s visualization doesn’t explicitly state a research question. So, I decided that the implied question inferred from its title should be: “Which US cities experienced the fastest increasing and decreasing rent prices over the past year?”
+
+The data used to answer this is the percentage change across a year in average two-bedroom apartment rent prices from April 2020 to April 2021. This is calculated for the 100 most populated cities in the US, sourced from Apartment Guide’s May 2021 Rent Report.
+
+Overall, there is a strong alignment between the data and the question, but I will explore this on a few specific points.  
+
+•	Apartment size: The question is broadly around “rent prices”, but the data only covers two-bedroom apartments. There could be different rent trends for other apartment types like studios, one-bedrooms or larger units. So, the chart technically answers a narrower question than what its title suggests.  
+
+•	Sample of selected cities: The data is limited to the 100 most populated US cities. This is understandable in practical sense, but it means the chart cannot claim to represent all US cities.  
+
+•	Time period: The one-year window considered in this visualization (April 2020-April 2021) is a volatile period in the market. The Airbnb market was affected by pandemic related remote work and migration. This actually suits the question well, because it captures a period of extreme change. But we should keep in mind that these swings may not reflect a typical year for rent prices.
+
+Overall, I think the data is a direct match for the question. The data doesn’t measure something entirely different from what it claims to show. The main issue is that the title talks broadly about “rent prices” and “US cities” but the data considers only two-bedroom apartments, and only in the 100 biggest cities. So, it’s more of a scope not being addressed properly than the data being wrong.
+
 
