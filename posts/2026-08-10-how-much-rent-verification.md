@@ -6,6 +6,10 @@ date: 2026-08-10
 
 <link rel="stylesheet" href="/assets/style.css">
 
+# Verify It !: Verifying source data against chart data
+
+### Published: 10 August 2026
+
 ![HowMuch.net map showing the top 10 U.S. cities with the fastest growing and declining two-bedroom rent prices, April 2020 to April 2021](/images/module3.jpeg)
 *Figure 1. Top 10 U.S. cities by fastest growing and declining rent prices (HowMuch.net, 2021).*
 
