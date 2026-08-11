@@ -45,8 +45,8 @@ Average rent price, April 2021	Size of the large circle (larger circle = higher 
 Exact value written as text inside the circle	US dollars ($) 	Ratio
 
 
-•	City and state and nominal because they are category labels with no order or numeric meaning.
-•	Rank is ordinal because it has a meaningful order (1st biggest increase, 2nd biggest increase etc.). But the gap between rank 1 and rank 2 isn’t necessarily equal to the gap between rank 2 and rank 3.
+•	City and state and nominal because they are category labels with no order or numeric meaning.  
+•	Rank is ordinal because it has a meaningful order (1st biggest increase, 2nd biggest increase etc.). But the gap between rank 1 and rank 2 isn’t necessarily equal to the gap between rank 2 and rank 3.  
 •	% change and rent price ($) are ratio because they both have a meaning zero (0% means no change and $0 means no rent).
 
 
