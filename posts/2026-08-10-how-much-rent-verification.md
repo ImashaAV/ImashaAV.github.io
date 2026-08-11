@@ -34,15 +34,13 @@ In summary, locating the correct source required more than looking up HowMuch.ne
 |---|---|---|---|
 | City | Text above each large circle | None | Nominal |
 | State | Text label below city name | None | Nominal |
-Rank (1-10)	Number before each city name, for both increase and decrease groups	None (ordinal position)	Ordinal
-Geographic location	Small coloured dots on the map	None 	Nominal
-One-year % change in rent 
-(Apr 2020- Apr 2021)	Colour of both the small dot on map and large circle. Two colour scales are used.
+| Rank (1-10) |	Number before each city name, for both increase and decrease groups |	None| Ordinal |
+| Geographic location	| Small coloured dots on the map |	None |	Nominal |
+| One-year % change in rent (Apr 2020- Apr 2021) |	Colour of both the small dot on map and large circle. Two colour scales are used.
 (pink -> dark maroon for increases,
 light blue -> dark blue for decreases)
-Exact percentage value is written as text inside the circle	Percent (%)	Ratio
-Average rent price, April 2021	Size of the large circle (larger circle = higher price).
-Exact value written as text inside the circle	US dollars ($) 	Ratio
+Exact percentage value is written as text inside the circle |	Percent (%)	| Ratio |
+| Average rent price, April 2021 | Size of the large circle (larger circle = higher price). Exact value written as text inside the circle	| US dollars ($) | 	Ratio |
 
 
 •	City and state and nominal because they are category labels with no order or numeric meaning.  
