@@ -31,8 +31,9 @@ In summary, locating the correct source required more than looking up HowMuch.ne
 ## Visually encoded variables
 
 | Variable | How it’s visually encoded | Unit | Level of measurement |
-City	Text above each large label	None (category name)	Nominal
-State	Text label below the city name	None (category name)	Nominal
+|---|---|---|---|
+| City | Text above each large circle | None | Nominal |
+| State | Text label below city name | None | Nominal |
 Rank (1-10)	Number before each city name, for both increase and decrease groups	None (ordinal position)	Ordinal
 Geographic location	Small coloured dots on the map	None 	Nominal
 One-year % change in rent 
