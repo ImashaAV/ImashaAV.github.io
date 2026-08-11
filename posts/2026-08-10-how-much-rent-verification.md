@@ -88,3 +88,27 @@ Overall, I think the data is a direct match for the question. The data doesn’t
 | 8 | Fort Worth, TX | -14.1% | -14.1% | $1,335 | $1,335 | ✓ |
 | 9 | St. Petersburg, FL | -12.8% | -12.8% | $1,474 | $1,474 | ✓ |
 | 10 | Garland, TX | -12.7% | -12.7% | $1,423 | $1,423 | ✓ |
+
+Looking at the above table, it’s clear that all 20 cities’ both percentage and the dollar figure match the source exactly.
+
+All 20 data points in the visualization in HowMuch.net’s map were successfully verified against Apartment Guide’s May 2021 Rent Report. Every value matched exactly, and there are no discrepancies, not even rounding differences.
+
+The numbers reported by HowMuch.net are fully accurate and consistent with the original source. The only issue I identified was not with the data itself, but with finding the citation error. The in-text hyperlink to the source was incorrect and, at the time I checked, redirected to unrelated reports (Step 4.1). This means,  a reader following the published citation wouldn’t land on the correct data.
+
+Given that every value checked out precisely, I have high confidence with the data accuracy in this visualization. The verification process confirms that HowMuch.net recorded the source figures correctly, and did not round inappropriately, or alter any values when producing the chart.
+
+
+## Quality of data source and limitations
+
+The data source which is Apartment Guide is a large online apartment listing platform operating across the United States. Part of the same corporate family is established as Rent.com. Apartment Guide has published its Rent Report monthly for several years using a clearly stated methodology which is, a weighted average formula applied across a fixed set of the 100 most populated US cities. Since its consistent in the methodology used, I think it’s a reasonably reputable source.
+Limitations:
+
+•	It’s a commercial source, not a government one: Apartment Guide is a rental listings company, and its data reflect the listings on its own platform (and Rent.com’s) rather than an independently conducted census of the rental market. This means the data could be influenced by which landlords choose to list with Apartment Guide/Rent.com rather than representing the entire rental market in the city.
+
+•	“Average” rent is based on available listings, not all rented units: The figures show the asking prices for available apartments at a point in time, not the actual rents being paid across all occupied units in a city. Therefore, it can produce different results to a government source which uses census information.
+
+
+Overall, Apartment Guide can be considered a reasonably reputable source for this purpose. This is particularly because of the accuracy confirmed during verification (Step 4.5) However, it shouldn’t be treated as equivalent to a government dataset. Readers should understand that the figures in this site represent listed apartments from a private industry platform, and not a full census of the rental market in the US.
+
+
+
