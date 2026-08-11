@@ -64,4 +64,27 @@ Overall, there is a strong alignment between the data and the question, but I wi
 
 Overall, I think the data is a direct match for the question. The data doesn’t measure something entirely different from what it claims to show. The main issue is that the title talks broadly about “rent prices” and “US cities” but the data considers only two-bedroom apartments, and only in the 100 biggest cities. So, it’s more of a scope not being addressed properly than the data being wrong.
 
+## Verifying the values
 
+| Rank | City, State | HowMuch.net % | Source % | HowMuch.net $ | Source $ | Match? |
+|-|-|-|-|-|-|-|
+| 1 | Las Vegas, NV | 45.6% | 45.6% | $1,997 | $1,997 | ✓ |
+| 2 | Buffalo, NY | 41.8% | 41.8% | $1,853 | $1,853 | ✓ |
+| 3 | Scottsdale, AZ | 36.8% | 36.8% | $3,125 | $3,125 | ✓ |
+| 4 | Detroit, MI | 31.4% | 31.4% | $2,320 | $2,320 | ✓ |
+| 5 | Tucson, AZ | 28.8% | 28.8% | $1,366 | $1,366 | ✓ |
+| 6 | Arlington, TX | 27.0% | 27.0% | $1,667 | $1,667 | ✓ |
+| 7 | Virginia Beach, VA | 24.6% | 24.6% | $1,671 | $1,671 | ✓ |
+| 8 | Orlando, FL | 23.6% | 23.6% | $2,229 | $2,229 | ✓ |
+| 9 | Henderson, NV | 22.1% | 22.1% | $1,897 | $1,897 | ✓ |
+| 10 | Sacramento, CA | 21.2% | 21.2% | $2,521 | $2,521 | ✓ |
+| 1 | Seattle, WA | -26.3% | -26.3% | $2,884 | $2,884 | ✓ |
+| 2 | Miami, FL | -20.5% | -20.5% | $2,383 | $2,383 | ✓ |
+| 3 | Philadelphia, PA | -20.3% | -20.3% | $2,423 | $2,423 | ✓ |
+| 4 | Lexington, KY | -17.7% | -17.7% | $976 | $976 | ✓ |
+| 5 | San Jose, CA | -14.7% | -14.7% | $3,054 | $3,054 | ✓ |
+| 6 | Fort Wayne, IN | -14.5% | -14.5% | $839 | $839 | ✓ |
+| 7 | San Antonio, TX | -14.2% | -14.2% | $1,216 | $1,216 | ✓ |
+| 8 | Fort Worth, TX | -14.1% | -14.1% | $1,335 | $1,335 | ✓ |
+| 9 | St. Petersburg, FL | -12.8% | -12.8% | $1,474 | $1,474 | ✓ |
+| 10 | Garland, TX | -12.7% | -12.7% | $1,423 | $1,423 | ✓ |
