@@ -30,7 +30,7 @@ In summary, locating the correct source required more than looking up HowMuch.ne
 
 ## Visually encoded variables
 
-Variable	How it’s visually encoded	Unit	Level of measurement
+| Variable | How it’s visually encoded | Unit | Level of measurement |
 City	Text above each large label	None (category name)	Nominal
 State	Text label below the city name	None (category name)	Nominal
 Rank (1-10)	Number before each city name, for both increase and decrease groups	None (ordinal position)	Ordinal
