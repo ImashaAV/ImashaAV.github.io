@@ -111,4 +111,8 @@ Limitations:
 Overall, Apartment Guide can be considered a reasonably reputable source for this purpose. This is particularly because of the accuracy confirmed during verification (Step 4.5) However, it shouldn’t be treated as equivalent to a government dataset. Readers should understand that the figures in this site represent listed apartments from a private industry platform, and not a full census of the rental market in the US.
 
 
+## References
 
+Apartment Guide. (2021, May 28). *Rent report, May 2021: The state of the rental market*.[https://www.apartmentguide.com/blog/rent-report-may-2021/](https://www.apartmentguide.com/blog/rent-report-may-2021/)
+
+HowMuch.net. (2021, June 4). *Top 10 U.S. cities by fastest growing and declining rent prices*. [https://howmuch.net/articles/top-10-us-cities-by-fastest-growing-or-declining-rent-prices](https://howmuch.net/articles/top-10-us-cities-by-fastest-growing-or-declining-rent-prices)
