@@ -22,6 +22,6 @@ The reason I chose this visualisation is, I was interested in rent fluctuation a
 
 4.2 
 
-Apartment Guide. (2021, May 28). Rent report, May 2021: The state of the rental market. (https://www.apartmentguide.com/blog/rent-report-may-2021/)[https://www.apartmentguide.com/blog/rent-report-may-2021/] 
+Apartment Guide. (2021, May 28). Rent report, May 2021: The state of the rental market. [https://www.apartmentguide.com/blog/rent-report-may-2021/](https://www.apartmentguide.com/blog/rent-report-may-2021/)
 
  
