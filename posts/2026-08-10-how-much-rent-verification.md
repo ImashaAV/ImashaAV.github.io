@@ -79,3 +79,20 @@ The values in HowMuch.net are consistent with the original source. The only issu
 
 Given that every value matched perfectly, I am highly confident about the data accuracy in this visualisation. 
 
+## Examining quality of data source
+
+The data source, which is Apartment Guide, is a large online apartment listing platform which has published its Rent Report monthly for several years. Since its a consistent website that publishes information regularly, I consider it to be a reputable source. 
+
+**Limitations**: 
+
+•	**It’s a commercial source, not a government one**: Apartment Guide is not a government owned source. It’s owned by Redfin, operated through Rent group INC (Redfin Corporation, 2021). This means the data could be influenced by which landlords decide to list with Apartment Guide rather than representing the entire rental market in the city. 
+
+ •	**“Average” rent is based on available listings, not all rented units**: The figures show the asking prices for available apartments at a point in time, not the actual rents being paid across all occupied units in a city. Therefore, it can produce different results from a government source which uses census information. 
+
+Overall, Apartment Guide can be considered a reputable source for this purpose, This is mostly because of the accuracy confirmed during verification. However, it shouldn’t be considered equivalent to a government dataset. That is because the figures in the site represent listed apartments from a private platform, and not a full census of the rental market in the US. 
+
+ 
+References 
+Redfin Corporation. (2021, February 19). Redfin announces agreement to acquire RentPath for $608 million [Press release]. U.S. Securities and Exchange Commission. 
+[https://www.sec.gov/Archives/edgar/data/1382821/000138282121000023/rushmorepressrelease.htm](https://www.sec.gov/Archives/edgar/data/1382821/000138282121000023/rushmorepressrelease.htm)
+
