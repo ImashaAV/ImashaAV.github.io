@@ -89,10 +89,10 @@ The data source, which is Apartment Guide, is a large online apartment listing p
 
  •	**“Average” rent is based on available listings, not all rented units**: The figures show the asking prices for available apartments at a point in time, not the actual rents being paid across all occupied units in a city. Therefore, it can produce different results from a government source which uses census information. 
 
-Overall, Apartment Guide can be considered a reputable source for this purpose, This is mostly because of the accuracy confirmed during verification. However, it shouldn’t be considered equivalent to a government dataset. That is because the figures in the site represent listed apartments from a private platform, and not a full census of the rental market in the US. 
+Overall, Apartment Guide can be considered a reputable source for this purpose, This is mostly because of the accuracy confirmed during verification. However, it shouldn’t be considered equivalent to a government dataset. That is because the figures in the site represent listed apartments from a private platform, and not a full census of the rental market in the US.  
 
  
-References 
+**References**
 Redfin Corporation. (2021, February 19). Redfin announces agreement to acquire RentPath for $608 million [Press release]. U.S. Securities and Exchange Commission. 
 [https://www.sec.gov/Archives/edgar/data/1382821/000138282121000023/rushmorepressrelease.htm](https://www.sec.gov/Archives/edgar/data/1382821/000138282121000023/rushmorepressrelease.htm)
 
