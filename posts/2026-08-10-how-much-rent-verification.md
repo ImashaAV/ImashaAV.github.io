@@ -34,6 +34,10 @@ Apartment Guide. (2021, May 28). Rent report, May 2021: The state of the rental 
 | One-year % change in rent (Apr 2020- Apr 2021) |	Colour of both the small dot on map and large circle. Two colour scales are used. (pink -> dark maroon for increases, light blue -> dark blue for decreases) Exact percentage value is written as text inside the circle |	Percent (%)	| Ratio |
 | Average rent price, April 2021 | Size of the large circle. Exact value written as text inside the circle	| US dollars ($) | 	Ratio |
 
+•	City and state are nominal because they are category labels with no order or numerical meaning.
+•	Rank is ordinal because it has a meaningful order. But the gap between 1st and 2nd isn't necessarily equal to the gap between 2nd and 3rd)
+•	% change and rent price ($) are ration because they both have a meaningful zero (0% means no change and $0 means no rent)
+
 ## Alignment of data and the question
 
 HowMuch.net’s visualization doesn’t explicitly ask a research question. So, I decided that the implied question from the title must be: “Which US cities have the fastest increasing and decreasing rent prices over the past year?” 
