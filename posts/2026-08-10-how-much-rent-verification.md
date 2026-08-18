@@ -17,6 +17,11 @@ date: 2026-08-10
 For this exercise, I did verification of a data visualisation published by HowMuch.net. We examined a chart by this site in class and discovered significant data errors. The goal was to select a different visualisation from HowMuch.net, track down its original data source, and verify the source values against the values in the chart. I also identified variables in the chart, assessed whether the data aligned with the question and evaluated how reliable the source is.
 
 
-I chose HowMuch.net's *"Top 10 U.S. Cities by Fastest Growing and Declining Rent Prices"* (2021). This is a map showing the 10 U.S. cities with he largest percentage change in two-bedroom apartment rent prices, both increasing and decreasing.  
+I chose HowMuch.net's *"Top 10 U.S. Cities by Fastest Growing and Declining Rent Prices"* (2021). This is a map showing the 10 U.S. cities with the largest percentage change in two-bedroom apartment rent prices, both increasing and decreasing.  
 The reason I chose this visualisation is, I was interested in rent fluctuation as I myself live in a two-bedroom apartment in Melbourne. 
 
+4.2 
+
+Apartment Guide. (2021, May 28). Rent report, May 2021: The state of the rental market. (https://www.apartmentguide.com/blog/rent-report-may-2021/)[https://www.apartmentguide.com/blog/rent-report-may-2021/] 
+
+ 
