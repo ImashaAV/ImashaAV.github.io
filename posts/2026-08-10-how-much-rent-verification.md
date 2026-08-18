@@ -35,7 +35,7 @@ Apartment Guide. (2021, May 28). Rent report, May 2021: The state of the rental 
 | Average rent price, April 2021 | Size of the large circle. Exact value written as text inside the circle	| US dollars ($) | 	Ratio |
 
 •	City and state are nominal because they are category labels with no order or numerical meaning.  
-•	Rank is ordinal because it has a meaningful order. But the gap between 1st and 2nd isn't necessarily equal to the gap between 2nd and 3rd). 
+•	Rank is ordinal because it has a meaningful order. But the gap between 1st and 2nd isn't necessarily equal to the gap between 2nd and 3rd).  
 •	% change and rent price ($) are ration because they both have a meaningful zero (0% means no change and $0 means no rent). 
 
 ## Alignment of data and the question
