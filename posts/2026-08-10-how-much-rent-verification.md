@@ -47,6 +47,4 @@ Overall, there is a strong alignment between the data and the question, but I wi
 
 •	**Sample of selected cities**:  The data is limited to the 100 most populated US cities. This is understandable in practical sense, but it means the chart cannot claim to represent all US cities. 
 
-•	**Time period**: The one-year window considered in this visualisation (April 2020-April 2021) is a period when the Airbnb market was affected by pandemic related remote work and migration. This actually suits the question well, because it captures a period of extreme change. But we should keep in mind that these swings may not reflect a typical year for rent prices. 
-
 Overall, I think the data is a direct match for the question. The data doesn’t measure something entirely different from what it claims to show. The main issue is that the title talks about “rent prices” and “US cities”, but the data considers only two-bedroom apartments, and only in the 100 biggest cities. So, it’s more of a scope not being addressed properly than the data being wrong. 
