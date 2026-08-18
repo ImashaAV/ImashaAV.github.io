@@ -19,4 +19,4 @@ For this exercise, I did verification of a data visualisation published by HowMu
 
 I chose HowMuch.net's *"Top 10 U.S. Cities by Fastest Growing and Declining Rent Prices"* (2021). This is a map showing the 10 U.S. cities with he largest percentage change in two-bedroom apartment rent prices, both increasing and decreasing.  
 The reason I chose this visualisation is, I was interested in rent fluctuation as I myself live in a two-bedroom apartment in Melbourne. 
-<img width="468" height="151" alt="image" src="https://github.com/user-attachments/assets/daca6892-b3bb-4439-80ae-4aeae8b21014" />
+
