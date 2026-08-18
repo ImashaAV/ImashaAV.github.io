@@ -17,7 +17,7 @@ date: 2026-08-10
 For this exercise, I did verification of a data visualisation published by HowMuch.net. The goal was to select a visualisation from HowMuch.net, track down its original data source, and verify the source values against the values in the chart. I also identified variables in the chart, assessed whether the data aligned with the question and evaluated how reliable the source is.
 
 I chose HowMuch.net's *"Top 10 U.S. Cities by Fastest Growing and Declining Rent Prices"* (2021). This is a map showing the 10 U.S. cities with the largest percentage change in two-bedroom apartment rent prices, both increasing and decreasing.  
-The reason I chose this visualisation is because I was interested in rent fluctuation as I myself live in a two-bedroom apartment in Melbourne. 
+The reason I chose this visualisation is because I was interested in rent fluctuation as I too live in a two-bedroom apartment in Melbourne. 
 
 ## Data source
 
@@ -36,21 +36,22 @@ Apartment Guide. (2021, May 28). Rent report, May 2021: The state of the rental 
 
 •	City and state are nominal because they are category labels with no order or numerical meaning.  
 •	Rank is ordinal because it has a meaningful order. But the gap between 1st and 2nd isn't necessarily equal to the gap between 2nd and 3rd).  
-•	% change and rent price ($) are ration because they both have a meaningful zero (0% means no change and $0 means no rent). 
+•	% Change and rent price ($) are ratio because they both have a meaningful zero (0% means no change and $0 means no rent). 
 
 ## Alignment of data and the question
 
-HowMuch.net’s visualization doesn’t explicitly ask a research question. So, I decided that the implied question from the title must be: “Which US cities have the fastest increasing and decreasing rent prices over the past year?” 
+HowMuch.net’s visualisation doesn’t explicitly ask a research question. So, I decided that the implied question from the title must be: “Which US cities have the fastest increasing and decreasing rent prices over the past year?” 
 
 The data used to answer this is the percentage change across a year in average two-bedroom apartment rent prices from April 2020 to April 2021. This is calculated for the 100 most populated cities in the US, sourced from Apartment Guide’s May 2021 Rent Report. 
 
-Overall, there is a strong alignment between the data and the question, but I will explore this on a few specific points. 
+Overall, there is a strong alignment between the data and the question.  
+However, there are two points which could use better alignment:
 
-•	**Apartment size**: The question is around “rent prices”, but the data only covers two-bedroom apartments. There could be different rent trneds for other apartment types like studios or one-bedroom apartments. So, the chart technically answers a narrower question than what the title suggests.  
+•	**Apartment size**: The question is around “rent prices”, but the data only covers two-bedroom apartments. There could be different rent trends for other apartment types like studios or one-bedroom apartments. So, the chart technically answers a narrower question than what the title suggests.  
 
 •	**Sample of selected cities**:  The data is limited to the 100 most populated US cities. This is understandable in practical sense, but it means the chart cannot claim to represent all US cities. 
 
-Overall, I think the data is a direct match for the question. The data doesn’t measure something entirely different from what it claims to show. The main issue is that the title talks about “rent prices” and “US cities”, but the data considers only two-bedroom apartments, and only in the 100 biggest cities. So, it’s more of a scope not being addressed properly than the data being wrong. 
+Overall, I think the data is a direct match for the question. The data doesn’t measure something entirely different from what it claims to show. The main issue is that the title talks about “rent prices” and “US cities”, but the data considers only two-bedroom apartments, and only in the 100 biggest cities. So, it’s more of the scope not being addressed properly than the data being wrong. 
 
 ## Verifying source data with visually encoded values
 
@@ -77,13 +78,13 @@ Overall, I think the data is a direct match for the question. The data doesn’t
 | 9 | St. Petersburg, FL | -12.8% | -12.8% | $1,474 | $1,474 | ✓ |
 | 10 | Garland, TX | -12.7% | -12.7% | $1,423 | $1,423 | ✓ |
 
-According to the above table, all 20 cities’ percentage and dollar values match the source exactly. Therefore, all data points in the HowMuch.net visualisation are successfully verified against Apartment Guide’s May 2021 Report. Every value matches exactly, and there are no discrepancies, not even rounding differences. 
+According to the above table, all 20 cities’ percentage and dollar values match the source exactly. Therefore, all data points in the HowMuch.net visualisation are successfully verified against Apartment Guide’s May 2021 Report. There are no discrepancies, not even rounding differences. 
 
 The values in HowMuch.net are consistent with the original source. The only issue I identified was not with the data itself, but with finding the correct source. The in-text hyperlink to the source was incorrect and, at the time I checked, redirected to an unrelated report. This means that a reader following the published citation wouldn’t lan on the correct data. 
 
 Given that every value matched perfectly, I am highly confident about the data accuracy in this visualisation. 
 
-## Examining quality of data source
+## Examining the quality of the data source
 
 The data source, which is Apartment Guide, is a large online apartment listing platform which has published its Rent Report monthly for several years. Since its a consistent website that publishes information regularly, I consider it to be a reputable source. 
 
