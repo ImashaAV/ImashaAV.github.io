@@ -18,7 +18,7 @@ date: 2026-08-20
 [Certification](https://www.credly.com/earner/earned/badge/bb5188b9-c2c0-4889-9968-36ecf255fa97)
 
 * DataCamp - Introduction to Python
-[https://app.datacamp.com/learn/courses/intro-to-python-for-data-science]
+[Certification](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science)
 
 * DataCamp - Introduction to Data Visualization with Matplotlib
 [Certification](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib)
