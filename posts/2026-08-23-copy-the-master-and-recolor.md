@@ -13,5 +13,19 @@ date: 2026-08-10
 ![Original visualisation](/images/module5.jpeg)
 *Hawkins, E. (2024). #ShowYourStripes: Global. Show Your Stripes. [https://showyourstripes.info/c](https://showyourstripes.info/c)*
 
+I picked this visualisation because it has a clear colour scheme and explored global temperature change over a range of years. I reproduced it using Python and recreated it using an alternate colour scheme. 
+
+### Replication:  
+The original visualisation uses a 1961-2010 baseline, but the raw data uses 1961-1990 as the baseline. SO first, I calculated the anomaly relative to the 1961-2010 average so that my replicated bars would match the original.  
+Then, at first I drew a simple bar graph. I used fig, ax instead of pls because, once I draw the graph using plt, I can't incrementally alter it. But since I have to change my graph to look like the original step by step, I stuck to fig, ax.  
+The initial graph lacked certain features:  
+* Colours of the original visualisation
+* Y axis intervals were wrong
+* Background colours were missing
+
+Then, I added the background colour which was grey and the coloured the x and y labels, ticks and axes spines in white. Then I used [imagecolorpicker](https://imagecolorpicker.com/) to get the hex values of the colours in the visualisation. I coloured the bars using those colours and got rid of the small gap between bars to match the original.
+
+My replication looks very similar to Hawkin's visualisation. The placement of the title still isn't quite right. 
+  
 
 
