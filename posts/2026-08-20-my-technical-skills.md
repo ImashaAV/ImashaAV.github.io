@@ -16,15 +16,15 @@ date: 2026-08-20
 This was a basic course that served as an entry point to Python and focused on syntax, data types, functions and basic exception handling.
 
 * Python Certified Associate Level Programmer
-[Certification](https://www.credly.com/earner/earned/badge/bb5188b9-c2c0-4889-9968-36ecf255fa97)  
+[Certification](https://www.credly.com/earner/earned/badge/bb5188b9-c2c0-4889-9968-36ecf255fa97)  <br>
 This course was intermediate and included OOP, modules, file handling and working with Python's standard library.
 
 * DataCamp - Introduction to Python
-[Certification](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science)
+[Certification](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science) <br>
 Covered core Python findamentals like variables, lists and an intro to NumPy.
 
 * DataCamp - Introduction to Data Visualization with Matplotlib
-[Certification](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib)
+[Certification](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib) <br>
 Learned to build plots using Matplotlib, including subplots and annotations.
 
 
