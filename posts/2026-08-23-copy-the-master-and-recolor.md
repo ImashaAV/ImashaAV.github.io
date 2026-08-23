@@ -36,4 +36,4 @@ For the recolouring, I wanted a colour scheme that goes from light to dark where
 
 
 ### Reconstruction with alternative colour scale
-![Recolouring](/images/Recolouring.jpeg)
+![Recolouring](/images/Recoloured.jpeg)
