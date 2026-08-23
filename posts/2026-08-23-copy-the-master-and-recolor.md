@@ -32,8 +32,8 @@ As for the colour, the original visualisation went with blue to red going from l
 For the recolouring, I wanted a colour scheme that goes from light to dark where the negative temperatures are shown by the light colour and the positive temperature changes are shown by the dark colour. Therefore, I went with the Yellow Red multi-hue colour scheme of Colour Brewer. 
 
 ### Replication
-![Replication](images/Replication.jpeg)
+![Replication](/images/Replication.jpeg)
 
 
 ### Reconstruction with alternative colour scale
-![Recolouring](images/Recolouring.jpeg)
+![Recolouring](/images/Recolouring.jpeg)
