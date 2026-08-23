@@ -41,14 +41,11 @@ For the recolouring, I wanted a colour scheme that goes from light to dark where
 ## Data card
 
 | Field | Details |
-
 |-|-|
-
 | **Title** | Global Annual Temperature Change |
-
 |**Summary**| This bar chart shows the global temperature anomalies from 1850 to 2025, relative to the average 1961-2010 period. Each bar represents a year. The height and color of the bar show that year’s temperature change.<br> This chart is a recreation of the “Show your Stripes” global warming stripes visualization by Hawkins in 2024, redesigned as a bar chart.|
 |**Data Sources**| Met Office Hadley Centre & Climatic Research Unit. (2025). HadCRUT.5.1.0.0 data download [Data set]. Met Office. <br> [https://www.metoffice.gov.uk/hadobs/hadcrut5/data/HadCRUT.5.1.0.0/download.html](https://www.metoffice.gov.uk/hadobs/hadcrut5/data/HadCRUT.5.1.0.0/download.html)The specific file used is the “Global (NH+SH)/2 - Annual” CSV which is listed under “HadCRUT5 analysis time series: ensemble means and uncertainties" section of the download page above. <br>Morice, C. P., Kennedy, J. J., Rayner, N. A., Winn, J. P., Hogan, E., Killick, R. E., et al. (2021). An updated assessment of near-surface temperature change from 1850: the HadCRUT5 data set. Journal of Geophysical Research: Atmospheres, 126, e2019JD032361. https://doi.org/10.1029/2019JD032361|
-
+|**Mapping**| X axis: Year – Years from 1850 to 2025 with 25-year intervals <br>Y axis: Global mean temperature change in °C.|
 
 
  
