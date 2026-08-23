@@ -17,7 +17,7 @@ I picked this visualisation because it has a clear colour scheme and explored gl
 
 ### Replication:  
 The original visualisation uses a 1961-2010 baseline, but the raw data uses 1961-1990 as the baseline. So first, I calculated the anomaly relative to the 1961-2010 average so that my replicated bars would match the original.  
-Then, at first I drew a simple bar graph. I used fig, ax instead of pls because, once I draw the graph using plt, I can't incrementally alter it. But since I have to change my graph to look like the original step by step, I stuck to fig, ax.  
+Then, at first I drew a simple bar graph. I used fig, ax instead of plt because, once I draw the graph using plt, I can't incrementally alter it. But since I have to change my graph to look like the original step by step, I stuck to fig, ax.  
 The initial graph lacked certain features:  
 * Colours of the original visualisation
 * Y axis intervals were wrong
