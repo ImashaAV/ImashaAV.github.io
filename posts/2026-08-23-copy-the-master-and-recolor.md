@@ -44,8 +44,7 @@ For the recolouring, I wanted a colour scheme that goes from light to dark where
 |-|-|
 | **Title** | Global Annual Temperature Change |
 |**Summary**|
-This bar chart shows the global temperature anomalies from 1850 to 2025, relative to the average 1961-2010 period. Each bar represents a year. The height and color of the bar show that year’s temperature change.
-This chart is a recreation of the “Show your Stripes” global warming stripes visualization by Hawkins in 2024, redesigned as a bar chart.|
+This bar chart shows the global temperature anomalies from 1850 to 2025, relative to the average 1961-2010 period. Each bar represents a year. The height and color of the bar show that year’s temperature change. This chart is a recreation of the “Show your Stripes” global warming stripes visualization by Hawkins in 2024, redesigned as a bar chart.|
 
 
 
