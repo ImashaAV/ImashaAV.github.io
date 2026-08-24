@@ -23,14 +23,17 @@ The initial graph lacked certain features:
 * Y axis intervals were wrong
 * Background colours were missing
 
-Then, I added the background colour which was grey and the coloured the x and y labels, ticks and axes spines in white. Then I used [imagecolorpicker](https://imagecolorpicker.com/) to get the hex values of the colours in the visualisation. I coloured the bars using those colours and got rid of the small gap between bars to match the original.
+Then, I added the background colour which was grey and the coloured the x and y labels, ticks and axes spines in white. Then I used [imagecolorpicker](https://imagecolorpicker.com/) to get the hex values of the colours in the visualisation. I built a colour map using the hexadecimal values of the colours. Then I used TwoSlopeNorm which is a translator that converted my anctual temperature values into 0-1 range values that the colour map needs. (Matplotlib, 2026)
+Then I added vcenter=0 to make sure that 0 °C is always in the exact middle of the colour scale even though data clearly isn't symmetric
 
 My replication looks very similar to Hawkin's visualisation. The placement of the title still isn't quite right. 
   
 ### Recolouring:
-**Add the cmap part with the reference**
 As for the colour, the original visualisation went with blue to red going from low temperatures to high. I agree with this colour scheme as it reflects the global temperature change that's being shown in the graph.  
 For the recolouring, I wanted a colour scheme that goes from light to dark where the negative temperatures are shown by the light colour and the positive temperature changes are shown by the dark colour. Therefore, I went with the Yellow Red multi-hue colour scheme of Colour Brewer. 
+
+### References
+Matplotlib. (2026). matplotlib.colors.TwoSlopeNorm. Matplotlib documentation. [https://matplotlib.org/stable/api/_as_gen/matplotlib.colors.TwoSlopeNorm.html](https://matplotlib.org/stable/api/_as_gen/matplotlib.colors.TwoSlopeNorm.html)
 
 ### Replication
 ![Replication](/images/Replication.jpeg)
