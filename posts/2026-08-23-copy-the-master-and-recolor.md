@@ -23,7 +23,7 @@ The initial graph lacked certain features:
 * Y axis intervals were wrong
 * Background colours were missing
 
-Then, I added the background colour which was grey and the coloured the x and y labels, ticks and axes spines in white. Then I used [imagecolorpicker](https://imagecolorpicker.com/) to get the hex values of the colours in the visualisation. I built a colour map using the hexadecimal values of the colours. Then I used TwoSlopeNorm which is a translator that converted my anctual temperature values into 0-1 range values that the colour map needs. (Matplotlib, 2026)
+Then, I added the background colour which was grey and the coloured the x and y labels, ticks and axes spines in white. Then I used [imagecolorpicker](https://imagecolorpicker.com/) to get the hex values of the colours in the visualisation. I built a colour map using the hexadecimal values of the colours. Then I used TwoSlopeNorm which is a translator that converted my anctual temperature values into 0-1 range values that the colour map needs. (Matplotlib, 2026).  
 Then I added vcenter=0 to make sure that 0 °C is always in the exact middle of the colour scale even though data clearly isn't symmetric.  
 Then the gap between the bars were removed to match the original.  
 Then I added the topic "Global Temperature Change Relative to average of 1961-2010 [°C]". I manually placed this as a text using ax.text instead of ax.title to match the topic placement of the original visualisation.  
