@@ -14,7 +14,7 @@ date: 2026-08-10
 *Figure 1. Top 10 U.S. cities by fastest growing and declining rent prices (HowMuch.net, 2021).*
 
 ## Objective
-For this exercise, I did verification of a data visualisation published by HowMuch.net. The goal was to select a visualisation from HowMuch.net, track down its original data source, and verify the source values against the values in the chart. I also identified variables in the chart, assessed whether the data aligned with the question and evaluated how reliable the source is.
+For this exercise, I did verification of a data visualisation published by HowMuch.net. The goal was to select a visualisation from HowMuch.net, track down its original data source, and verify the source values against the values in the chart. 
 
 I chose HowMuch.net's *"Top 10 U.S. Cities by Fastest Growing and Declining Rent Prices"* (2021). This is a map showing the 10 U.S. cities with the largest percentage change in two-bedroom apartment rent prices, both increasing and decreasing.  
 The reason I chose this visualisation is because I was interested in rent fluctuation as I too live in a two-bedroom apartment in Melbourne. 
@@ -40,16 +40,15 @@ Apartment Guide. (2021, May 28). Rent report, May 2021: The state of the rental 
 
 ## Alignment of data and the question
 
-HowMuch.net’s visualisation doesn’t explicitly ask a research question. So, I decided that the implied question from the title must be: “Which US cities have the fastest increasing and decreasing rent prices over the past year?” 
+HowMuch.net’s visualization doesn’t explicitly ask a research question. So, I decided that the implied question from the title must be: “Which US cities have the fastest increasing and decreasing rent prices over the past year?” 
 
-The data used to answer this is the percentage change across a year in average two-bedroom apartment rent prices from April 2020 to April 2021. This is calculated for the 100 most populated cities in the US, sourced from Apartment Guide’s May 2021 Rent Report. 
+The data used to answer this is the percentage change across a year in average two-bedroom apartment rent prices from April 2020 to April 2021. This is calculated for the 100 most populated cities in the US. 
 
-Overall, there is a strong alignment between the data and the question.  
-However, there are two points which could use better alignment:
+Overall, there is a strong alignment between the data and the question, but there are two points that might disagree: 
 
 •	**Apartment size**: The question is around “rent prices”, but the data only covers two-bedroom apartments. There could be different rent trends for other apartment types like studios or one-bedroom apartments. So, the chart technically answers a narrower question than what the title suggests.  
 
-•	**Sample of selected cities**:  The data is limited to the 100 most populated US cities. This is understandable in practical sense, but it means the chart cannot claim to represent all US cities. 
+•	**Sample of selected cities**:  The data is limited to the 100 most populated US cities. This means the chart cannot claim to represent all US cities.
 
 Overall, I think the data is a direct match for the question. The data doesn’t measure something entirely different from what it claims to show. The main issue is that the title talks about “rent prices” and “US cities”, but the data considers only two-bedroom apartments, and only in the 100 biggest cities. So, it’s more of the scope not being addressed properly than the data being wrong. 
 
@@ -78,7 +77,7 @@ Overall, I think the data is a direct match for the question. The data doesn’t
 | 9 | St. Petersburg, FL | -12.8% | -12.8% | $1,474 | $1,474 | ✓ |
 | 10 | Garland, TX | -12.7% | -12.7% | $1,423 | $1,423 | ✓ |
 
-According to the above table, all 20 cities’ percentage and dollar values match the source exactly. Therefore, all data points in the HowMuch.net visualisation are successfully verified against Apartment Guide’s May 2021 Report. There are no discrepancies, not even rounding differences. 
+According to the above table, all 20 cities’ percentage and dollar values match the source exactly with no discrepancies. Therefore, all data points in the HowMuch.net visualisation are successfully verified against Apartment Guide’s May 2021 Report. 
 
 The values in HowMuch.net are consistent with the original source. The only issue I identified was not with the data itself, but with finding the correct source. The in-text hyperlink to the source was incorrect and, at the time I checked, redirected to an unrelated report. This means that a reader following the published citation wouldn’t lan on the correct data. 
 
@@ -90,9 +89,9 @@ The data source, which is Apartment Guide, is a large online apartment listing p
 
 **Limitations**: 
 
-•	**It’s a commercial source, not a government one**: Apartment Guide is not a government owned source. It’s owned by Redfin, operated through Rent group INC (Redfin Corporation, 2021). This means the data could be influenced by which landlords decide to list with Apartment Guide rather than representing the entire rental market in the city. 
+•	**It’s a commercial source, not a government one**: Apartment Guide is not a government owned source. It’s owned by Redfin, operated through Rent group INC (Redfin Corporation, 2021). This means the data only reflects the listings that landlords decided to list with Apartment Guide and the entire rental market in the city. 
 
- •	**“Average” rent is based on available listings, not all rented units**: The figures show the asking prices for available apartments at a point in time, not the actual rents being paid across all occupied units in a city. Therefore, it can produce different results from a government source which uses census information. 
+ •	**“Average” rent is based on available listings, not all rented units**: The values in Apartment Guide show the asking prices for available apartments at a point in time, not the actual rents being paid across all occupied units in a city. Therefore, it can produce different results from a government source which uses census information. 
 
 Overall, Apartment Guide can be considered a reputable source for this purpose, This is mostly because of the accuracy confirmed during verification. However, it shouldn’t be considered equivalent to a government dataset. That is because the figures in the site represent listed apartments from a private platform, and not a full census of the rental market in the US.  
 
