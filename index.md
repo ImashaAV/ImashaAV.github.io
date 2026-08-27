@@ -18,6 +18,6 @@ Exercises from Data Visualisation with R coming soon !
 - [Draw It Like Playfair, Minard & Nightingale (30 July 2026)](posts/2026-07-30-hand-drawn-device-viz.md)
 - [Gestalt (2 August 2026)](/posts/2026-08-02-gestalt-gapminder.md)
 - [Verify It ! (10 August 2026)](posts/2026-08-10-how-much-rent-verification.md)
-- [My Technical Skills (20 August 2026)](/posts/2026-08-20-my-technical-skills.md)
+- [Tools of the trade (20 August 2026)](/posts/2026-08-20-my-technical-skills.md)
 - [Copy the Master and Recolour it (23 August 2026)](posts/2026-08-23-copy-the-master-and-recolor.md)
 
