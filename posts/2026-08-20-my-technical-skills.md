@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "My technical skills"
+title: "Tools of the trade"
 date: 2026-08-20
 ---
 
 <link rel="stylesheet" href="/assets/style.css">
 
-# My technical skills: My Tech Toolkit
+# Tools of the trade: My Technical skills
 
 ### Published: 20 August 2026
 
