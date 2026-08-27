@@ -40,5 +40,5 @@ Dynamic programming, graph algorithms
 ## Hobbies
 * Guitar - I enjoy playing guitar in my free time
 * Reading - I like to read, specifically historical fiction novels
-* Exploring suburbs - I enjoy discovering new suburbs around Melvourne, checking out cafes, parks and local spots. For now I've explore Brighton, Fitzroy, Camberwell and Brunswick. 
+* Exploring suburbs - I enjoy discovering new suburbs around Melbourne, checking out cafes, parks and local spots. For now I've explored Brighton, Fitzroy, Camberwell and Brunswick. 
 
