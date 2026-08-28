@@ -13,7 +13,10 @@ date: 2026-08-10
 ![Original visualisation](/images/module5.jpeg)
 *Hawkins, E. (2024). #ShowYourStripes: Global. Show Your Stripes. [https://showyourstripes.info/c](https://showyourstripes.info/c)*
 
-I picked this visualisation because it has a clear colour scheme and explored global temperature change over a range of years. I reproduced it using Python and recreated it using an alternate colour scheme. 
+Initially, I wanted to pick a visualisation from Our World in Data as they're a reputable source and are known for their visualisations. However, I realised that most of their work is done using Python so I refrained from using it as I too am using Python to construct my diagram.  
+I picked this visualisation by Hawkins because it has a clear colour scheme and explored global temperature change over a range of years. 
+Ed Hawkins is a British climate scientist and a professor of Climate Science at the University of Reading.  
+I reproduced his "warming stripes" bars with scales using Python and recreated it using an alternate colour scheme. 
 
 ### Replication:  
 The original visualisation uses a 1961-2010 baseline, but the raw data uses 1961-1990 as the baseline. So first, I calculated the anomaly relative to the 1961-2010 average so that my replicated bars would match the original.  
