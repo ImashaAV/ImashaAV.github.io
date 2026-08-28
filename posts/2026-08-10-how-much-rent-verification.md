@@ -89,7 +89,7 @@ The data source, which is Apartment Guide, is a large online apartment listing p
 
 **Limitations**: 
 
-•	**It’s a commercial source, not a government one**: Apartment Guide is not a government owned source. It’s owned by Redfin, operated through Rent group INC (Redfin Corporation, 2021). This means the data only reflects the listings that landlords decided to list with Apartment Guide and the entire rental market in the city. 
+•	**It’s a commercial source, not a government one**: Apartment Guide is not a government owned source. It’s owned by Redfin, operated through Rent group INC (Redfin Corporation, 2021). This means the data only reflects the listings that landlords decided to list with Apartment Guide and not the entire rental market in the city. 
 
  •	**“Average” rent is based on available listings, not all rented units**: The values in Apartment Guide show the asking prices for available apartments at a point in time, not the actual rents being paid across all occupied units in a city. Therefore, it can produce different results from a government source which uses census information. 
 
