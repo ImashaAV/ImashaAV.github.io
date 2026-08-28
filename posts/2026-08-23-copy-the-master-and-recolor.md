@@ -15,8 +15,8 @@ date: 2026-08-10
 
 Initially, I wanted to pick a visualisation from Our World in Data as they're a reputable source and are known for their visualisations. However, I realised that most of their work is done using Python so I refrained from using it as I too am using Python to construct my diagram.  
 I picked this visualisation by Hawkins because it has a clear colour scheme and explored global temperature change over a range of years. 
-Ed Hawkins is a British climate scientist and a professor of Climate Science at the University of Reading.  
-I reproduced his "warming stripes" bars with scales using Python and recreated it using an alternate colour scheme. 
+Ed Hawkins is a British climate scientist and a professor of Climate Science at the University of Reading (Hawkins, n.d.).
+I reproduced his **"warming stripes"** bars with scales using Python and recreated it using an alternate colour scheme. 
 
 ### Replication:  
 The original visualisation uses a 1961-2010 baseline, but the raw data uses 1961-1990 as the baseline. So first, I calculated the anomaly relative to the 1961-2010 average so that my replicated bars would match the original.  
@@ -56,5 +56,7 @@ For the recolouring, I wanted a colour scheme that goes from light to dark where
 |**Access**|You can get a copy of the data used to build this visualization by downloading it from the Met Office HadCRUT5 page:<br>[https://www.metoffice.gov.uk/hadobs/hadcrut5/data/HadCRUT.5.1.0.0/download.html](https://www.metoffice.gov.uk/hadobs/hadcrut5/data/HadCRUT.5.1.0.0/download.html)<br>The specific dataset is “Global (NH+SH)/2, Annual CSV” under ensemble means and uncertainties table|
 
 ### References
+Hawkins, E. (n.d.). Professor Ed Hawkins. National Centre for Atmospheric Science. [https://ncas.ac.uk/people/10077/ed-hawkins/](https://ncas.ac.uk/people/10077/ed-hawkins/)
+
 Matplotlib. (2026). matplotlib.colors.TwoSlopeNorm. Matplotlib documentation. [https://matplotlib.org/stable/api/_as_gen/matplotlib.colors.TwoSlopeNorm.html](https://matplotlib.org/stable/api/_as_gen/matplotlib.colors.TwoSlopeNorm.html)
 
