@@ -12,3 +12,6 @@ date: 2026-08-31
 
 ## Visualisation before improvements
 ![Recolouring](/images/Recoloured.jpeg)
+
+## Visualisation after improvements
+![Accessible](/images/Aceessible.jpeg)
