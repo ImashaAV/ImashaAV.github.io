@@ -11,4 +11,4 @@ date: 2026-08-31
 ### Published: 31 August 2026
 
 ## Visualisation before improvements
-
+![Recolouring](/images/Recoloured.jpeg)
