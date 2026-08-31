@@ -14,4 +14,4 @@ date: 2026-08-31
 ![Recolouring](/images/Recoloured_new.png)
 
 ## Visualisation after improvements
-![Accessible](/images/Aceessible.png)
+![Accessible](/images/Accessible.png)
