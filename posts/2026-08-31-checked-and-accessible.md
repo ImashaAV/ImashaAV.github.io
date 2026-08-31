@@ -11,7 +11,7 @@ date: 2026-08-31
 ### Published: 31 August 2026
 
 ## Visualisation before improvements
-![Recolouring](/images/Recoloured.jpeg)
+![Recolouring](/images/Recoloured_new.png)
 
 ## Visualisation after improvements
-![Accessible](/images/Aceessible.jpeg)
+![Accessible](/images/Aceessible.png)
