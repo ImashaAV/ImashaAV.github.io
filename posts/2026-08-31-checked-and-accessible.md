@@ -13,7 +13,7 @@ date: 2026-08-31
 ## Visualisation before improvements
 ![Recolouring](/images/Recoloured_new.png)
 
-Master source:
+Master source:  
 *Hawkins, E. (2024). #ShowYourStripes: Global. Show Your Stripes. [https://showyourstripes.info/c](https://showyourstripes.info/c)*
 
 ## Visualisation after improvements
