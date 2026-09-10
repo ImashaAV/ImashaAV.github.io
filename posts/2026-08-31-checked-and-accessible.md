@@ -17,7 +17,7 @@ Master source:
 *Hawkins, E. (2024). #ShowYourStripes: Global. Show Your Stripes. [https://showyourstripes.info/c](https://showyourstripes.info/c)*
 
 ## Visualisation after improvements
-![Accessible](/images/Accessible.png)
+![Accessible](/images/new_image)
 
 In this exercise, I examined my reproduced and recoloured visualisation for accessibility issues.  
 By examining it myself and by running the through the Data Visualisation Checklist, I identified the below accessibility issues.  
