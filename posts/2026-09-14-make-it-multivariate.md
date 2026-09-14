@@ -29,7 +29,8 @@ Then I added the title and X and Y axis labels. To get rid of the scientific not
 
 ## Data card
 
-|Field|Details||---|---|
+|Field|Details|
+|---|---|
 |**Title** | CO2 emissions from fossil fuels and land use change by region over time (1850-2024)|
 |**Summary** | This line chart shows the CO2 emissions from 1850 to 2024 categorized by world region. Global emissions are broken into two categories: fossil fuels and land-use change.|
 |**Data Sources** | Our World in Data. (2026). CO₂ emissions from fossil fuels and land-use change [Data set]. [https://ourworldindata.org/grapher/co2-fossil-plus-land-use](https://ourworldindata.org/grapher/co2-fossil-plus-land-use) Gcarbonproject. (n.d.). Home. Retrieved from [https://globalcarbonbudget.org/](https://globalcarbonbudget.org/) All data was retrieved from OWID’s own csv download for the chart.|
