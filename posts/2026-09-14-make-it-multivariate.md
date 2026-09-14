@@ -27,6 +27,10 @@ I started by drawing the faceted chart outline. Then I visualised my data. Each 
 
 Then I added the title and X and Y axis labels. To get rid of the scientific notations in the y axis, I changed the unit of emissions from tonnes to billion tonnes. The strict boundaries around each facet made it look like separate charts. Therefore, I added a common gridline to each facet
 
+## Test table
+|Header one|Header two|
+|-|-|
+
 ## Data card
 |Field|Details|
 |-|-|
