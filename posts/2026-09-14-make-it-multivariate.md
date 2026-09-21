@@ -39,3 +39,5 @@ Then I added the title and X and Y axis labels. To get rid of the scientific not
 |**Access** | Original visualization: [https://ourworldindata.org/grapher/co2-fossil-plus-land-use](https://ourworldindata.org/grapher/co2-fossil-plus-land-use) Data download: Available directly from the “Download” icon on the same OWID chart page|
 
 ## References
+Our World in Data. (n.d.). *CO₂ emissions from fossil fuels and land-use change*. [https://ourworldindata.org/grapher/co2-fossil-plus-land-use](https://ourworldindata.org/grapher/co2-fossil-plus-land-use)
+
