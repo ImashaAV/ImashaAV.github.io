@@ -22,4 +22,5 @@ Exercises from Data Visualisation with R coming soon !
 - [Copy the Master and Recolour it (23 August 2026)](posts/2026-08-23-copy-the-master-and-recolor.md)
 - [Checked and Accessible (31 August 2026)](posts/2026-08-31-checked-and-accessible.md)
 - [Make it multivariate (14 September 2026)](posts/2026-09-14-make-it-multivariate.md)
+- [Map it (21 September 2026)](posts/2026-09-21-map-it.md)
 
