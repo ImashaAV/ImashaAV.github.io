@@ -13,7 +13,7 @@ date: 2026-09-14
 ## Data Visualisation after made multivariate
 ![Multivariate](/images/multivariate2.jpeg)
 
-I decided to add **World region** as the third variable as it would be meaningful to know which areas in the world are responsible for the CO2 emissions shown in the chart. I classified the regions into 6 by continents: North America, South America, Europe, Africa, Asia and Oceania.
+I decided to add **continent** as the third variable as it would be meaningful to know which areas in the world are responsible for the CO2 emissions shown in the chart. I classified the world regions into 6 by continents: North America, South America, Europe, Africa, Asia and Oceania.
 
 I inspected the dataset downloaded from Our World in Data (OWID) and found out that it contained the CO2 emissions for all the continents. So I can use this dataset itself to incorporate the third variable into the visualisation.   
 Upon further inspection I realised that the continents were aggregated in two ways:
