@@ -25,7 +25,7 @@ I filtered the dataset down to the six regions I want. Then I removed the 'Total
 
 I started by drawing the faceted chart outline. Then I visualised my data. Each column facet corresponded to a region. The two column facets showed the two categories (Fossil fuels and land-use). X axis within each panel showed the year and y axis within each panel showed emissions in tonnes.
 
-Then I added the title and X and Y axis labels. To get rid of the scientific notations in the y axis, I changed the unit of emissions from tonnes to billion tonnes. The strict boundaries around each facet made it look like separate charts. Therefore, I added a common gridline to each facet
+Then I added the title and X and Y axis labels. To get rid of the scientific notations in the y axis, I changed the unit of emissions from tonnes to billion tonnes. The strict boundaries around each facet made it look like separate charts. Therefore, I added a common gridline to each facet.
 
 ## Data card
 
