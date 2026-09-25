@@ -11,7 +11,7 @@ date: 2026-09-14
 ### Published: 14 September 2026
 
 ## Data Visualisation after made multivariate
-![Multivariate](/images/multivariate2.jpeg)
+![Multivariate](/images/multivariate_3.jpeg)
 
 I decided to add **continent** as the third variable as it would be meaningful to know which areas in the world are responsible for the CO2 emissions shown in the chart. I classified the world regions into 6 by continents: North America, South America, Europe, Africa, Asia and Oceania.
 
