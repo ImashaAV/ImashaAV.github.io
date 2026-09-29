@@ -23,5 +23,5 @@ Exercises from Data Visualisation with R coming soon !
 - [Checked and Accessible (31 August 2026)](posts/2026-08-31-checked-and-accessible.md)
 - [Make it multivariate (14 September 2026)](posts/2026-09-14-make-it-multivariate.md)
 - [Map it (21 September 2026)](posts/2026-09-21-map-it.md)
-- [Make it multivariate (30 September 2026](posts/30-09-2026-make-it-multivariate.md)
+- [Make it multivariate (30 September 2026)](posts/30-09-2026-make-it-multivariate.md)
 
