@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Make it multivariate"
+title: "Make it interactive"
 date: 2026-09-30
 ---
 
 <link rel="stylesheet" href="/assets/style.css">
 
-# Make it multivariate
+# Make it interactive
 
 ### Published: 30 September 2026
 
