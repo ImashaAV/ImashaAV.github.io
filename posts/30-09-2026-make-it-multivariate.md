@@ -9,3 +9,6 @@ date: 2026-09-30
 # Make it multivariate
 
 ### Published: 30 September 2026
+
+<iframe src="/visualisations/temperature_stripes.html" width="100%" height="600" style="border:none;"></iframe>
+
