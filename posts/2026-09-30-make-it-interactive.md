@@ -17,9 +17,8 @@ For this exercise, I decided to reuse the master visualisation I did for "Copyin
 First I drew the graph using plotly without any interactivity. The graph was drawn according to plotly's default styling and didn't really mimic the original visualisation I was going for. I made some changes by removing the legend and making the background dark.
 
 For interactivity, I added the hover feature where when hovering over the bars, it shows the exact year and the temperature change value (Plotly, n.d.). 
-I also added a slider which can be adjusted to a specific year range so that the user can inspect a specific time period they're interested in. I did this by using the basic range slider and range selector components of Plotly (Plotly, n.d.).
-For interactivity I also added a dropdown which lets the user select a desired decade and 
-the bars corresponding to that decade will be highlighted(Plotly, n.d.). 
+<br>I also added a slider which can be adjusted to a specific year range so that the user can inspect a specific time period they're interested in. I did this by using the basic range slider and range selector components of Plotly (Plotly, n.d.).<br>
+I also added a dropdown which lets the user select a desired decade and the bars corresponding to that decade will be highlighted(Plotly, n.d.). 
 ## Data card
 
 | Field | Details |
