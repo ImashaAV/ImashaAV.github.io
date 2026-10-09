@@ -10,7 +10,7 @@ date: 2026-09-30
 
 ### Published: 30 September 2026
 
-<iframe src="/temperature_stripes_new.html" width="100%" height="600" style="border:none;"></iframe>
+<iframe src="/interactive.html" width="100%" height="600" style="border:none;"></iframe>
 
 For this exercise, I decided to reuse the master visualisation I did for "Copying the Master". The visualisation contains bars showing the temperature anomalies from 1859 to 2025, rebaselined against the 1961-2010 average.
 
