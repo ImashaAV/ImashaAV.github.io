@@ -9,3 +9,6 @@ date: 2026-10-09
 # Multiplot it
 
 ### Published: 9 October 2026
+
+
+<iframe src="/multiplot.html" width="100%" height="600" style="border:none;"></iframe>
