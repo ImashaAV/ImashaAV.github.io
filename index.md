@@ -24,4 +24,5 @@ Exercises from Data Visualisation with R coming soon !
 - [Make it multivariate (14 September 2026)](posts/2026-09-14-make-it-multivariate.md)
 - [Map it (21 September 2026)](posts/2026-09-21-map-it.md)
 - [Make it interactive (30 September 2026)](posts/2026-09-30-make-it-interactive.md)
+- [Multiplot it (9 October 2026)](posts/2026-10-09-multiplot-it.md)
 
