@@ -33,4 +33,4 @@ The second component of interactivity was, a slider which can be adjusted to a s
 
 
 ### References
-Hawkins, E. (n.d.). Professor Ed Hawkins. National Centre for Atmospheric Science. [https://ncas.ac.uk/people/10077/ed-hawkins/](https://ncas.ac.uk/people/10077/ed-hawkins/)
+*Hawkins, E. (2024). #ShowYourStripes: Global. Show Your Stripes. [https://showyourstripes.info/c](https://showyourstripes.info/c)*
