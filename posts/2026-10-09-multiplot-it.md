@@ -13,6 +13,8 @@ date: 2026-10-09
 
 <iframe src="/temperature_stripes_multiplot2.html" width="100%" height="600" style="border:none;"></iframe>
 
+## Data card
+
 | Field | Details |
 |-|-|
 | **Title** | Global Annual Temperature Change |
