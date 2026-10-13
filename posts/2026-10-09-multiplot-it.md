@@ -11,4 +11,4 @@ date: 2026-10-09
 ### Published: 9 October 2026
 
 
-<iframe src="/multiplot.html" width="100%" height="600" style="border:none;"></iframe>
+<iframe src="/temperature_stripes_multiplot2.html" width="100%" height="600" style="border:none;"></iframe>
