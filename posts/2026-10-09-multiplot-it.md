@@ -13,6 +13,7 @@ date: 2026-10-09
 
 <iframe src="/temperature_stripes_multiplot2.html" width="100%" height="600" style="border:none;"></iframe>
 
+
 For this exercise, I reused the temperature anomalies visualisation (Hawkins, 2024). At first, I loaded and cleaned both datasets: the annual and monthly csv files. Then the monthly data was prepared by making a list of month names for the x-axis and a lookup of each year's average anomaly. Then I used the same colour scale as the bars so each year's monthly line matches its bar. For every year, I stored the months, monthly values, 95% confidence limits, annual average and colours in a dictionary. I set 2025 as the default year that shows when the visualisation is initially loaded. 
 
 Then, the interactive bar chart was plotted from the "Make it interactive" model. Then I created the multiplot layout using subplots, with two rows of equal height. O put the bar chart in the top row and the monthly chart at the bottom. The line chart has a shaded band which shows the 95% confidence range and a line with markers that show each month's value. They both have the same colour as that year's bar. When hovering over, the text shows each month's value and its confidence range. At this point, the bottom line chart still shows just one year.
